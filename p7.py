@@ -1,8 +1,7 @@
 """
-Name – AYTIJHA CHAKRABORTY
-Student ID – 19011511
-University Roll Number – 1914009
-BTech (2nd Year) – Section K
+Name – SHARDUL JOSHI
+University Roll Number – 1102869
+MCA (1st year) – Section A
 
 Question: Take the age of the user as Input. If the user is eligible for vote then take some Voter ID as an input.
 If the ID is at least 6 digits long, then print "Vote Done", Otherwise print an appropriate error message.
