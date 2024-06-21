@@ -1,8 +1,7 @@
 """
-Name – AYTIJHA CHAKRABORTY
-Student ID – 19011511
-University Roll Number – 1914009
-BTech (2nd Year) – Section K
+Name – SHARDUL JOSHI
+University Roll Number – 1102869
+MCA (1st year) – Section A
 
 Question: To print the longest palindrome in a given string.
 """
